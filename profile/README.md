@@ -2,7 +2,7 @@
     <img width="800" height="150" src="https://i.ibb.co/GTbSTkP/project-codex-banner.png">
 </div>
 
-## This is project-error
+## This is project-codex
 
 A small and dedicated group of people providing open-sourced resources for the FiveM community.  Want to get involved? Here are some useful links:
 
