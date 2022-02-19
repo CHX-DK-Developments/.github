@@ -9,3 +9,4 @@ A small and dedicated group of people providing open-sourced resources for the F
 * [Join our discord server](https://discord.gg/y8AjKeAUYX)
 * Our most popular projects
   * [cx-parking](https://github.com/project-codex/cx-parking)
+  * [cx-payslip](https://github.com/project-codex/cx-payslip)
