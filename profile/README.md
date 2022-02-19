@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="150" height="150" src="https://ibb.co/ZmV4zfh">
+    <img width="150" height="150" src="https://i.ibb.co/wsRGhdK/project-codex.jpg">
 </div>
 
 ## This is project-error
