@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img width="1000" height="150" src="https://i.ibb.co/xSyYJ44/Untitled-1.png">
+    <img src="https://i.ibb.co/xSyYJ44/Untitled-1.png">
 </div>
 
 ## This is project-codex
