@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="800" height="150" src="https://i.ibb.co/GTbSTkP/project-codex-banner.png">
+    <img width="1000" height="150" src="https://i.ibb.co/DKGTM8Z/Untitled.png">
 </div>
 
 ## This is project-codex
